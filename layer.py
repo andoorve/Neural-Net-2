@@ -1,4 +1,6 @@
-import numpy as np
+# Understand from http://neuralnetworksanddeeplearning.com/ by Michael Nielsen
+# Improved version from Neural-Net supersedes node.py and layer.py
+import numpy as np #www.numpy.org
 
 class layer:
     def __init__(self, in_num, n_nodes, func):
