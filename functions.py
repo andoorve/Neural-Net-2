@@ -1,5 +1,6 @@
 #Most from https://en.wikipedia.org/wiki/Activation_function
 #Most of the implementations seems wrong
+#New version of functions.py from Neural-Net repository, most, if not all is the same
 import numpy as np #www.numpy.org
 from scipy.special import expit #www.scipy.org
 
