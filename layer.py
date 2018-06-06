@@ -1,4 +1,4 @@
-# Understand from http://neuralnetworksanddeeplearning.com/ by Michael Nielsen
+# Understood this stuff from "Neural Networks and Deep Learning" by Michael Nielsen (http://neuralnetworksanddeeplearning.com/) 
 # Improved version from Neural-Net supersedes node.py and layer.py
 import numpy as np #www.numpy.org
 
