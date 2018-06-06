@@ -1,5 +1,6 @@
 # Neural-Net-2
 M. Andoorveedu
+
 An optimized version of Neural Net
 References:
 1.  "A Step by Step Backpropagation Example" by Matt Mazur (Link: https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/) really helped me understand Backpropagation which made it possible for me to implement it in network.py
