@@ -1,4 +1,4 @@
-#Most from https://en.wikipedia.org/wiki/Activation_function
+#Most from https://en.wikipedia.org/wiki/Activation_function (Activation function by Wikipedia)
 #Most of the implementations seems wrong
 #New version of functions.py from Neural-Net repository, most, if not all is the same
 import numpy as np #www.numpy.org
