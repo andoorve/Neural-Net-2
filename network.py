@@ -1,6 +1,8 @@
+#Understand from http://neuralnetworksanddeeplearning.com/ by Michael Nielsen
+#Backpropagation material: https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/ by Matt Mazur
 import layer
 import functions as f
-import numpy as np
+import numpy as np #From www.numpy.org
 
 class network:
     def __init__(self):
