@@ -1,5 +1,5 @@
-#Understand from http://neuralnetworksanddeeplearning.com/ by Michael Nielsen
-#Backpropagation material: https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/ by Matt Mazur
+#Understand from "Neural Networks and Deep Learning" http://neuralnetworksanddeeplearning.com/ by Michael Nielsen
+#Backpropagation material: "A Step by Step Backpropagation Example" https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/ by Matt Mazur
 #Changed network.py from Neural-Net repository
 import layer
 import functions as f
