@@ -1,5 +1,7 @@
-import numpy as np
-from scipy.special import expit
+#Most from https://en.wikipedia.org/wiki/Activation_function
+#Most of the implementations seems wrong
+import numpy as np #www.numpy.org
+from scipy.special import expit #www.scipy.org
 
 def linear(x):
     return x
